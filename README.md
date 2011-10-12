@@ -15,6 +15,7 @@
 
 ## Week 2
 
+* Community - MINSWAN, Local Meetups, Online Resources
 * Git
 * Github - Creating repositories and pull requests
 * Rspec, Guard, and Rake
@@ -28,11 +29,13 @@
 ## Week 3
 
 * Sinatra and Highline
+* IRB
 
 ### Language
 
 * Struct
 * OpenStruct
+* Functions
 
 ## Week 4
 
@@ -53,6 +56,7 @@
 ## Week 6
 
 * Outline Project
+* Ruby Debugging
 
 ### Language
 
