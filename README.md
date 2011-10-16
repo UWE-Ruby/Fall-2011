@@ -15,7 +15,7 @@
 
 ## Week 2
 
-* Community - MINSWAN, Local Meetups, Online Resources
+* Community - MINASWAN, Local Meetups, Online Resources
 * Git - Pull Requests
 * Github - Creating repositories and pull requests
 * Rspec, Guard, and Rake
