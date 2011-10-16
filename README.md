@@ -29,10 +29,10 @@
 ## Week 3
 
 * Sinatra and Highline
-* IRB
 
 ### Language
 
+* Conditionals (if,unless,else...)
 * Struct
 * OpenStruct
 * Functions
@@ -56,6 +56,7 @@
 ## Week 6
 
 * Outline Project
+* IRB
 * Ruby Debugging
 
 ### Language
