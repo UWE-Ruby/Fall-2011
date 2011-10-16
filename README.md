@@ -16,7 +16,7 @@
 ## Week 2
 
 * Community - MINSWAN, Local Meetups, Online Resources
-* Git
+* Git - Pull Requests
 * Github - Creating repositories and pull requests
 * Rspec, Guard, and Rake
 
@@ -40,6 +40,7 @@
 ## Week 4
 
 * File IO, YML, JSON, and XML
+* Git Branching (introduction)
 
 ### Language
 
