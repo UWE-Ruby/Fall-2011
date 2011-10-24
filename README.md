@@ -35,7 +35,6 @@
 * Conditionals (if,unless,else...)
 * Struct
 * OpenStruct
-* Functions
 
 ## Week 4
 
@@ -44,7 +43,7 @@
 
 ### Language
 
-* Classes
+* Functions
 
 ## Week 5
 
@@ -52,6 +51,7 @@
 
 ### Language
 
+* Classes
 * Modules
 
 ## Week 6
