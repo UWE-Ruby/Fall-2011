@@ -38,8 +38,7 @@
 
 ## Week 4
 
-* File IO, YML, JSON, and XML
-* Git Branching (introduction)
+* Git - Branches
 
 ### Language
 
