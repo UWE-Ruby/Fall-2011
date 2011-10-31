@@ -46,22 +46,23 @@
 
 ## Week 5
 
+* IRB
+* Ruby Debugging
+
 * Twitter, Robut, and Octokit (Github)
 
 ### Language
 
 * Classes
-* Modules
 
 ## Week 6
 
 * Outline Project
-* IRB
-* Ruby Debugging
 
 ### Language
 
-* Blocks
+* Method Missing
+* Modules
 
 ## Week 7
 
@@ -70,7 +71,7 @@
 ### Language
 
 * Exceptions
-* Regular Expressions
+* Blocks
 
 ## Week 8
 
@@ -78,7 +79,6 @@
 
 ### Language
 
-* Method Missing
 * Module - included/extended
 
 ## Week 9
