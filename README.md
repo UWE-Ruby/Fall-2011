@@ -1,7 +1,7 @@
 # Course Outline
 
 
-## Week 1
+## [Week 1](https://github.com/UWE-Ruby/week-01)
 
 * Installation and Configuration
 * Using Git
@@ -13,7 +13,7 @@
 * Strings
 * Symbols
 
-## Week 2
+## [Week 2](https://github.com/UWE-Ruby/week-02)
 
 * Community - MINASWAN, Local Meetups, Online Resources
 * Git - Pull Requests
