@@ -61,16 +61,14 @@
 
 ### Language
 
-* Method Missing
 * Modules
 
 ## Week 7
 
-* HTTP, SSH, SFTP, Capistrano
+* YAML, XML, JSON
 
 ### Language
 
-* Exceptions
 * Blocks
 
 ## Week 8
@@ -79,6 +77,7 @@
 
 ### Language
 
+* Exceptions
 * Module - included/extended
 
 ## Week 9
