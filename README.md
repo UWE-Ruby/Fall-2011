@@ -58,6 +58,7 @@
 ## Week 6
 
 * Outline Project
+* Rack, Sinatra, Heroku
 
 ### Language
 
@@ -66,6 +67,7 @@
 ## Week 7
 
 * YAML, XML, JSON
+* Workflow
 
 ### Language
 
